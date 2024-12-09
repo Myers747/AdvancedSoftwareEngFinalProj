@@ -16,6 +16,7 @@ Final_Project_GitHub_Repo/
 │   ├── README.md             # Project overview
 │   ├── project_report.md     # Detailed project report
 │   └── presentation.pptx     # Final presentation slides
+├── README.md                 # Project overview
 ```
 
 ## Experiment Design
