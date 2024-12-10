@@ -13,7 +13,6 @@ Final_Project_GitHub_Repo/
 ├── results/
 │   └── chatgpt_responses.md  # ChatGPT responses to various prompts
 ├── docs/
-│   ├── README.md             # Project overview
 │   ├── project_report.md     # Detailed project report
 │   └── presentation.pptx     # Final presentation slides
 ├── README.md                 # Project overview
